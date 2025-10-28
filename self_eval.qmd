@@ -1,0 +1,18 @@
+---
+title: "Project B Self-Evaluation"
+author: "431 Staff"
+date: last-modified
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(comment = NA)
+```
+
+The self-evaluation form will appear on December 1 at <https://bit.ly/431-2025-projectB-self-evaluation>. If it's after December 1, and the form isn't available to you, please contact Dr. Love via email to remind him to turn it on.
+
+You should complete the form **after** you have met with Dr. Love and given your project presentation. The deadline is the same as the deadline for your Final Report, and is posted on the Course Calendar.
+
+The form is the usual sort of Google Form that Dr. Love uses for lots of things, and should take less than 15 minutes to complete. The form will ask you to reflect briefly on your project report and your presentation.
+
+If you are working with a partner, each of you will need to separately complete the self-evaluation.
+
