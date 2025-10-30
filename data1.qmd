@@ -84,12 +84,12 @@ You must use the same data source for Study 1 and Study 2 in Project B. That dat
 # To use data from NHANES (National Health and Nutrition Examination Survey). 
 
 - Please read the **Data Requirements for Study 1 and Study 2** and **Tips on Cleaning Your Data** above, then read the additional details on what is required if you're [working with NHANES data here](data2.qmd).
-- Many people (in past years) have felt that using NHANES data was a little easier than using another data source. To encourage people to use data other than NHANES, there is a four-point bonus in the final project B grade available for all projects which use non-NHANES data.
+- Many people (in past years) have felt that using NHANES data was a little easier than using another data source. To encourage people to use data other than NHANES, there is a five-point bonus in the final project B grade available for all projects which use non-NHANES data.
 
 # To use data from a non-NHANES source that meets with Dr. Love's approval. 
 
 - Please read the **Data Requirements for Study 1 and Study 2** and **Tips on Cleaning Your Data** above, then read the additional details on what is required if you're instead [working with some other data source here](data3.qmd).
-- Again, to encourage people to use data other than NHANES, there is a four-point bonus available to all projects which use non-NHANES data.
+- Again, to encourage people to use data other than NHANES, there is a five-point bonus available to all projects which use non-NHANES data.
 
 
 
