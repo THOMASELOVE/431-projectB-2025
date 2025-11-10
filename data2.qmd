@@ -118,7 +118,7 @@ That's up to you. Find variables of interest in the description files, and pull 
     - For example, in 2017-March 2020, there are 14,300 such subjects and in 2021-2023, there are 8,860.
 - I encourage you to not use subjects listed with ages of 80 (RIDAGEYR = 80) since that's a catch-all for all subjects ages 80 and older.
     - For 2017-March 2020, of the 14,300 listed above, 13,724 are less than 80.
-    - For 2021-2023, of the 8,860 listed above, 525 are less than 80.
+    - For 2021-2023, of the 8,860 listed above, 8,335 are less than 80.
 - You should either use children (ages 0-20) or adults (ages 21-79) in your final analyses, and not both together.
     - Some variables are only collected on children, others only on adults.
 - Do not filter to complete cases in creating your data. Maintain the missing values.
