@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="431 Staff">
-<meta name="dcterms.date" content="2025-11-10">
+<meta name="dcterms.date" content="2025-11-11">
 
 <title>Using NHANES Data – 431 Project B</title>
 <style>
@@ -262,7 +262,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2025-11-10</p>
+      <p class="date">2025-11-11</p>
     </div>
   </div>
   
@@ -381,6 +381,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>Focus on subjects who have a <strong>RIDSTATR</strong> value of 2 (meaning they were both interviewed and examined) - this variable is part of the Demographics file.
 <ul>
 <li>For example, in 2017-March 2020, there are 14,300 such subjects and in 2021-2023, there are 8,860.</li>
+<li>If you get the names from using the <code>nhanes()</code> function instead of numbers, you can either work with those names, or try adding <code>translated = FALSE</code>, as in <code>demo &lt;- nhanes("DEMO_L", translated = FALSE)</code> to your call to the <code>nhanes()</code> function.</li>
 </ul></li>
 <li>I encourage you to not use subjects listed with ages of 80 (RIDAGEYR = 80) since that’s a catch-all for all subjects ages 80 and older.
 <ul>

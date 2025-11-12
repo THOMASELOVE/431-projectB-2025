@@ -116,6 +116,7 @@ That's up to you. Find variables of interest in the description files, and pull 
 
 - Focus on subjects who have a **RIDSTATR** value of 2 (meaning they were both interviewed and examined) - this variable is part of the Demographics file. 
     - For example, in 2017-March 2020, there are 14,300 such subjects and in 2021-2023, there are 8,860.
+    - If you get the names from using the `nhanes()` function instead of numbers, you can either work with those names, or try adding `translated = FALSE`, as in `demo <- nhanes("DEMO_L", translated = FALSE)` to your call to the `nhanes()` function.
 - I encourage you to not use subjects listed with ages of 80 (RIDAGEYR = 80) since that's a catch-all for all subjects ages 80 and older.
     - For 2017-March 2020, of the 14,300 listed above, 13,724 are less than 80.
     - For 2021-2023, of the 8,860 listed above, 8,335 are less than 80.
