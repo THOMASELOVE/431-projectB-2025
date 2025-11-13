@@ -4,6 +4,10 @@ author: "Thomas E. Love, Ph.D."
 date: last-modified
 ---
 
+## NEW!
+
+The [Project Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(comment = NA)
 ```

@@ -10,7 +10,7 @@ Project B is the second of two real data science projects you'll be doing this s
 
 1. You will complete a Registration Form to obtain my approval for what you propose, let me know if you’re working with a partner, and schedule your oral presentation.
 2. You will build Quarto and HTML reports describing your work.
-3. You (and your partner, if applicable) will present your project sometime between 12-03 and 12-09 to Dr. Love in his office in person or via Zoom. These will be scheduled immediately after the Project B Registration Forms have been submitted.
+3. You (and your partner, if applicable) will present your project sometime between 12-03 and 12-09 to Dr. Love in his office in person or via Zoom. The [Project Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md)!
 4. Finally, you will complete a Self-Evaluation form.
 
 # What's on this Website
@@ -36,12 +36,12 @@ Project B is the second of two real data science projects you'll be doing this s
 - A [Tip Sheet](tipsheet.qmd) of about 20 things that have come up in the past that are worth your attention as you prepare your final materials for presentation and submission.
 - The top menu also provides links to contact us, and to the 431 home page.
 
-All of the material you need (from a statistical and coding perspective) to do Project B has been or will be covered in our first 23 classes (i.e. immediately before the Thanksgiving Break), as well as in the Course Book Chapters 1-22 and Labs 1-6.
+All of the material you need (from a statistical and coding perspective) to do Project B has been or will be covered in our first 23 classes (i.e. immediately before the Thanksgiving Break), as well as in the Course Book Chapters 1-21 and Labs 1-6.
 
 # Project B Deliverables
 
 1. You will complete a [Registration Form](register.qmd) to obtain my approval for your proposed work, let me know if you're working with a partner, and schedule your oral presentation, by the (mid-November) deadline on the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
-2. You (and your partner, if applicable) will present your project to Dr. Love in his office. Details on the Oral Presentation are found in the [Checklist](checklist.qmd) menu above. Presentations will be scheduled on December 6-11 using the [Registration Form](register.qmd). 
+2. You (and your partner, if applicable) will present your project to Dr. Love in his office. Details on the Oral Presentation are found in the [Checklist](checklist.qmd) menu above. The [Project Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md)! 
 3. You will build two Quarto and HTML reports (separate reports for [Study 1](study1a.qmd) and [Study 2](study2a.qmd)) by the Project B Portfolio deadline in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
     - If you're not using NHANES data, you'll also submit your data to Dr. Love at that time.
 4. Finally, you will complete a [Self-Evaluation form](self_eval.qmd), by the Project B Portfolio deadline in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
@@ -82,6 +82,7 @@ Project B will be graded by Dr. Love on a scale from 0-150 points.
 - On-time successful completion of the [Registration Form](register.qmd) is worth 15 points.
 - The two study reports ([Study 1](study1b.qmd) and [Study 2](study2b.qmd)) due at the final Project B deadline are worth a combined 60 points.
 - The oral presentation is also worth 60 points. Details on the Oral Presentation are found in the [Checklist](checklist.qmd).
+  - The [Project Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md)!
 - The [self-evaluation](self_eval.qmd) is worth 15 points.
 - Late work on Project B is unacceptable. All deadlines are in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
 

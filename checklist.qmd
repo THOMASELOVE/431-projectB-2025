@@ -12,7 +12,7 @@ knitr::opts_chunk$set(comment = NA)
 
 1. Complete the Project B [Registration Form](register.qmd) to obtain my approval for your plan, let me know if you're working with a partner, and schedule your oral presentation.
     - The registration deadline in mid-November is specified in the Course Calendar.
-2. You (and your partner, if you have one) will present your project on December 3-9 to Dr. Love in his office or over Zoom. Details on the Oral Presentation are provided below.
+2. You (and your partner, if you have one) will present your project on December 3-9 to Dr. Love in his office or over Zoom. Details on the Oral Presentation are provided below. The [Project Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md)!
 3. You will build two Quarto and HTML reports (separate reports for [Study 1](study1a.qmd) and [Study 2](study2a.qmd)) due at the project B portfolio deadline.
     - If you're not using NHANES data, you'll also submit your data to me at that time.
     - Details on how to submit your reports are provided below.
@@ -37,6 +37,8 @@ Your Study 2 Report is to be submitted to [to Canvas](https://canvas.case.edu/) 
 - Again, if you are working with a partner, one of you should submit both the Study 1 and Study 2 reports to [Canvas](https://canvas.case.edu/), and the other person should submit a one-page note to [Canvas](https://canvas.case.edu/), (word or PDF is best) containing your name, and stating something like "I worked on Project B with [your partner's name] and they will submit Project B for our group."
 
 # Oral Presentation of Results
+
+The [Project Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md)!
 
 Your meeting time is 20 minutes long, and please arrive 5 minutes early, either in person or via Zoom. If you have an emergency on the day of your presentation, email Dr. Love as soon as possible. Zoom information will be provided to you by December 1.
 
